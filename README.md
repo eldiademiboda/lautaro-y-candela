@@ -1,2 +1,2 @@
 ## Website
-[Ver Website](https://sergiodario.github.io/EstudioPC/)
+[Ver Website](https://eldiademiboda.github.io/lautaro-y-candela/)
